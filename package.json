@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "lucide-react": "^1.16.0",
-     "homepage":"https://github.com/tanmayparekh111/mobileapp.git"
+    "lucide-react": "^1.16.0"
   }
 }
